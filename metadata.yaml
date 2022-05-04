@@ -1,0 +1,38 @@
+_repo: A-Pata-da-Gazella-romance-brasileiro_67831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - Alencar, José de
+    - Alencar, Jose Martiniano de
+    - De Alencar, José Martiniano
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_de_Alencar
+    - https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Alencar
+description: ''
+gutenberg_issued: '2022-04-14'
+identifiers:
+  gutenberg: '67831'
+  lccn: '33032636'
+language: pt
+pgterms:marc904: https://digital.bbm.usp.br/handle/bbm/4637
+pgterms:marc905: 20220407082442alencar
+pgterms:marc906: '1870'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by the Biblioteca
+  Brasiliana USP Digital)
+publication_note: Brazil :B. L. Garnier,1870.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Brazilian fiction -- 19th century'
+- GITenberg
+title: 'A Pata da Gazella: romance brasileiro.'
+url: http://www.gutenberg.org/ebooks/67831

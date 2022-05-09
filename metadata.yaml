@@ -1,5 +1,8 @@
 _repo: A-Pata-da-Gazella-romance-brasileiro_67831
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67831-h/images/gazella_cover.jpg
 creator:
   author:
     agent_name: Alencar, José Martiniano de
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_de_Alencar
     - https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Alencar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67831#A-Pata-da-Gazella-romance-brasileiro
 gutenberg_issued: '2022-04-14'
 identifiers:
   gutenberg: '67831'
